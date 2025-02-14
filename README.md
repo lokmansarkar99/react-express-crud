@@ -2,6 +2,13 @@
 
 This is a simple full-stack application built using **React** for the frontend and **Express** for the backend, providing CRUD (Create, Read, Update, Delete) functionality. The app allows users to manage contacts by adding, updating, viewing, and deleting contact information.
 
+## Live Preview
+
+You can check out the live version of the app here:
+
+[Live Preview](https://react-express-crud-black.vercel.app/)
+
+
 ## Features
 
 - Add a new contact with **Name**, **Age**, **Email**, and **Phone** fields.

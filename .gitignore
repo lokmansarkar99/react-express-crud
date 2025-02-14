@@ -19,3 +19,5 @@ yarn-error.log*
 
 # Ignore any other specific files or directories
 .DS_Store
+temp_auto_push.bat
+temp_interactive_push.bat
